@@ -1,11 +1,11 @@
 
-let score = "33abc"    
-console.log(score)               //print score value 
-console.log(typeof (score))      //print data type  
+//let score = "33abc"    
+//console.log(score)               //print score value 
+//console.log(typeof (score))      //print data type  
 
-let CovertValueInNumber = Number(score)   //converting into Number by using "Number()"  to convert into  string "String()"
-console.log(typeof CovertValueInNumber)     // printing type  of that converted  number 
-console.log(CovertValueInNumber)            // printing datatype  of that converted  number
+//let CovertValueInNumber = Number(score)   //converting into Number by using "Number()"  to convert into  string "String()"
+//console.log(typeof CovertValueInNumber)     // printing type  of that converted  number 
+//console.log(CovertValueInNumber)            // printing datatype  of that converted  number
 
 
 
@@ -58,6 +58,26 @@ console.log(CovertValueInNumber)            // printing datatype  of that conver
 // console.log(ConvertInBolean)
 // console.log(typeof ConvertInBolean)
 
+
+
+
+// let num = 3
+// let negnum= -num
+// console.log(negnum)
+
+
+
+
+// let Str1= "Hi! "
+// let Str2= "This is Zulfiqar A."
+// let Str3=Str1=Str2
+// console.log(Str3)
+
+// console.log(("1")+(2+2))
+
+// let a = +true
+// console.log(a)
+// console.log(typeof a)
 
 
 
